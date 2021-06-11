@@ -31,9 +31,8 @@ This website also explains how the Internet works. It doesn't go into great dept
 
 <br>
 
-practice02
 
-> ### :mag: **HOW DOES THE INTERNET tt?**
+> ### :mag: **HOW DOES THE INTERNET WORK?**
 >
 >> #### **Contents**
 >>-
@@ -43,4 +42,3 @@ practice02
 >>-
 > For video reference, click on ===> "<a href="https://youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7"> :desktop_computer: </a>"
 
-practice
