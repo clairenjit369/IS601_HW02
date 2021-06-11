@@ -31,6 +31,7 @@ This website also explains how the Internet works. It doesn't go into great dept
 
 <br>
 
+practice02
 
 > ### :mag: **HOW DOES THE INTERNET WORK?**
 >
