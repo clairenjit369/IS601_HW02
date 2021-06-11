@@ -31,6 +31,8 @@ This website also explains how the Internet works. It doesn't go into great dept
 
 <br>
 
+practice update info from the secong account
+
 > ### :mag: **HOW DOES THE INTERNET WORK?**
 >
 >> #### **Contents**
