@@ -33,7 +33,7 @@ This website also explains how the Internet works. It doesn't go into great dept
 
 practice02
 
-> ### :mag: **HOW DOES THE INTERNET WORK?**
+> ### :mag: **HOW DOES THE INTERNET tt?**
 >
 >> #### **Contents**
 >>-
