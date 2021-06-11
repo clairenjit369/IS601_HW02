@@ -31,7 +31,6 @@ This website also explains how the Internet works. It doesn't go into great dept
 
 <br>
 
-practice update info from the secong account
 
 > ### :mag: **HOW DOES THE INTERNET WORK?**
 >
@@ -43,4 +42,4 @@ practice update info from the secong account
 >>-
 > For video reference, click on ===> "<a href="https://youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7"> :desktop_computer: </a>"
 
-
+practice
