@@ -1,4 +1,4 @@
-###### <p align="right">  By: Claire Wang </p>
+###### <p align="right">  By: Claire Wang & Ashley Joseph</p>
 
 ## **A SHORT HISTORY OF THE INTERNET & HOW THE INTERNET WORKS** 
 
@@ -35,10 +35,11 @@ This website also explains how the Internet works. It doesn't go into great dept
 > ### :mag: **HOW DOES THE INTERNET WORK?**
 >
 >> #### **Contents**
->>-
->>-
->>-
->>-
->>-
+>>- What is the Internet
+>>- Wires, Cables, Wifi 
+>>- IP Addresses and DNS 
+>>- Packets, Routing and Reliability 
+>>- HTTP and HTML 
+> <br>
 > For video reference, click on ===> "<a href="https://youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7"> :desktop_computer: </a>"
 
