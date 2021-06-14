@@ -27,8 +27,7 @@ This website also explains how the Internet works. It doesn't go into great dept
 >
 >- 2000's
 > <br>
-> For video reference, click on ===> "<a href="https://www.youtube.com/watch?v=h8K49dD52WA"> :desktop_computer: </a>"
-
+> Click here to enter this page ==> <a href="https://github.com/clairenjit369/IS601_HW02_part02.git"> :open_file_folder: </a>
 <br>
 
 
