@@ -2,6 +2,7 @@
 
 ## **A SHORT HISTORY OF THE INTERNET & HOW THE INTERNET WORKS** 
 
+##### <a href="https://github.com/clairenjit369/IS601_HW02_part01.git"> **About** </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/clairenjit369/IS601_HW02_part02.git"> **Internet History Timeline** </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/clairenjit369/IS601_HW02_part03.git"> **How Does the Internet Work?** </a>   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Video Reference Link**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Gallery**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Contact Us**  
 
 > ### **INTRODUCTION**
 
